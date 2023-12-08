@@ -1,8 +1,9 @@
-### Hi there 👋
-![CJJ's GitHub stats](https://readmestats.lzaiz24.top/api?username=lzaiz24&show_icons=true&theme=)
-![CJJ's GitHub stats](https://readmestats.lzaiz24.top/api?username=lzaiz24&show_icons=true&theme=tokyonight)
-![Top Langs](https://readmestats.lzaiz24.top/api/top-langs/?username=lzaiz24&layout=compact)
+### Hi there 👋 This is ChenJunJie
+<!--![CJJ's GitHub stats](https://readmestats.lzaiz24.top/api?username=lzaiz24&show_icons=true&theme=)-->
 
+                                                                                                                                                                                                                                                               
+
+ ![ChenJunJie's github stats](https://readmestats.lzaiz24.top/api?username=lzaiz24&show_icons=true&theme=tokyonight&include_all_commits=true) ![ChenJunJie's github stats](https://readmestats.lzaiz24.top/api/top-langs/?username=lzaiz24&theme=tokyonight&layout=compact) 
 
 <!--
 **lzaiz24/lzaiz24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
