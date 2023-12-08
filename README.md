@@ -1,7 +1,9 @@
 ### Hi there 👋
 ![CJJ's GitHub stats](https://readmestats.lzaiz24.top/api?username=lzaiz24&show_icons=true&theme=)
 ![CJJ's GitHub stats](https://readmestats.lzaiz24.top/api?username=lzaiz24&show_icons=true&theme=tokyonight)
-[![Top Langs](https://readmestats.lzaiz24.top/api/top-langs/?username=lzaiz24&layout=compact)]
+![Top Langs](https://readmestats.lzaiz24.top/api/top-langs/?username=lzaiz24&layout=compact)
+
+
 <!--
 **lzaiz24/lzaiz24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
