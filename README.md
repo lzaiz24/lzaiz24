@@ -4,7 +4,7 @@
                                                                                                                                                                                                                                                                
 
  ![ChenJunJie's github stats](https://readmestats.lzaiz24.top/api?username=lzaiz24&show_icons=true&theme=tokyonight&include_all_commits=true) 
- <!--![ChenJunJie's github stats](https://readmestats.lzaiz24.top/api/top-langs/?username=lzaiz24&theme=tokyonight&layout=compact) -->
+ ![ChenJunJie's github stats](https://readmestats.lzaiz24.top/api/top-langs/?username=lzaiz24&theme=tokyonight&layout=compact) 
 
 <!--
 **lzaiz24/lzaiz24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
