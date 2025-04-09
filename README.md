@@ -1,10 +1,10 @@
 ### Hi there 👋 This is Colin Stack
 <!--![CJJ's GitHub stats](https://readmestats.lzaiz24.top/api?username=lzaiz24&show_icons=true&theme=)-->
 
-                                                                                                                                                                                                                                                               
-
- ![ChenJunJie's github stats](https://readmestats.lzaiz24.top/api?username=lzaiz24&show_icons=true&theme=tokyonight&include_all_commits=true) 
- <!--![ChenJunJie's github stats](https://readmestats.lzaiz24.top/api/top-langs/?username=lzaiz24&theme=tokyonight&layout=compact) -->
+<div style="display: flex; justify-content: center;">
+  <img src="https://readmestats.lzaiz24.top/api?username=lzaiz24&show_icons=true&theme=tokyonight&include_all_commits=true" width="300" height="auto" style="margin-right: 10px;">
+  <img src="https://readmestats.lzaiz24.top/api/top-langs/?username=lzaiz24&theme=tokyonight&layout=compact" width="300" height="auto">
+</div>
 
 <!--
 **lzaiz24/lzaiz24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
