@@ -3,7 +3,7 @@
 
 <div style="display: flex; justify-content: center;">
   <img src="https://readmestats.lzaiz24.top/api?username=lzaiz24&show_icons=true&theme=tokyonight&include_all_commits=true" width="300" height="auto" >
-  <img src="https://readmestats.lzaiz24.top/api/top-langs/?username=lzaiz24&theme=tokyonight&layout=compact" width="300" height="auto">
+  <img src="https://readmestats.lzaiz24.top/api/top-langs/?username=lzaiz24&theme=tokyonight" width="300" height="auto">
 </div>
 
 <!--
